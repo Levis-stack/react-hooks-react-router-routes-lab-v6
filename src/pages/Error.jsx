@@ -1,5 +1,7 @@
 
-import NavBar from '../components/NavBar'; 
+// pages/ErrorPage.jsx
+import React from 'react';
+import NavBar from '../components/NavBar';
 
 const ErrorPage = () => {
   return (
